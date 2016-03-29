@@ -1,0 +1,87 @@
+.contato {
+  background:#0f2a47;
+  padding-bottom:10px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+  .navbar-default {
+    background: #003673;
+    color: #fff;
+  }
+header .intro-tex {
+  padding-top: 100px !important;
+}
+
+.navbar-default.navbar-shrink {
+  background: #003673;
+}
+.btn-xl {
+  background: #F8E69A;
+  color: #27BAA5;
+  border: none
+}
+.navbar-default .navbar-nav>.active>a{
+  background: rgba(193, 186, 186, 0.5);
+  color: #000;
+  border:none
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+  background-color:transparent;
+  color:#767B8F;
+  border:none
+}
+.nav-tabs>li>a:hover {
+  background-color:transparent;
+  color:#24AD9A;
+  border:none;
+}
+a {
+  color:#26B9A4
+}
+.nav-tabs {
+  border:none
+}
+.team-member img {
+  border:7px solid #767B8F;
+}
+.active {
+  background: rgba(0, 0, 0, 0.3); !important;
+  border-radius:5px
+}
+.cha {
+  /*background:#767B8F;*/
+  background:#f8f8f8;
+  color:#919191;
+  padding-bottom:100px;
+  padding-top:100px;
+}
+.cha:hover {
+  background:#E3E3E3
+}
+.bot {
+  width:90%;
+  background:#26B9A4;
+  padding-bottom:20px;
+  padding-top:20px;
+  border:none
+}
+.bot:hover {
+  background:#0058A8
+}
+header .intro-text .intro-heading {
+  font-size: 50px;
+  line-height: 50px;
+}
+.espaco {
+  border-radius: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 5px;
+  background: rgba(255, 255, 255, 0.8);
+  color:#555555;
+}
+
+.parce {
+  width: 100%;
+  height:auto;
+}
